@@ -5,7 +5,7 @@
 </head>
 <body>
 <form name="nuevo_empleado" action="" onSubmit="enviarDatosEmpleado(); return false">
-<h2>Nuevo cliente</h2>
+<h2>Nuevo cliente tales trines/h2>
 <p>Nombres 
 <label>
 <input name="nombres" type="text" />
